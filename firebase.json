@@ -1,0 +1,26 @@
+{
+  "database": {
+    "rules": "database.rules.json"
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "hosting": {
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },
+  "functions": {
+    "predeploy": [
+      "npm run predeploy",
+      "npm --prefix ./functions run build"
+    ]
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}
