@@ -4,7 +4,7 @@
   // Ensure we only attempt to register the SW once.
   let isAlreadyRegistered = false;
 
-  const URL = 'service-worker.js';
+  const URL = '/service-worker.js';
   const SCOPE = Polymer.rootPath;
 
   const register = () => {

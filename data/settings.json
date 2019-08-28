@@ -8,7 +8,7 @@
   "startDate": "2019-06-193T09:00:00+01:00",
   "endDate": "2019-06-20T19:00:00+01:00",
   "webapp": {
-    "shortName": "Beam Summit",
+    "shortName": "Java Dev Day",
     "themeColor": "#df4b2b",
     "backgroundColor": "#f88047"
   },
@@ -19,11 +19,20 @@
   "disabledSchedule": false,
   "showSessionShortAbstract": true,
   "navigation": [
-
+    {
+      "route": "home",
+      "permalink": "/",
+      "label": "Home"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/",
+      "label": "Speakers"
+    }
   ],
   "heroSettings": {
     "home": {
-      "description": "Java Dev Day #jdd2019",
+      "description": "Java Dev Day #JDDMX2019",
       "background": {
         "color": "#df4b2b",
         "image": "/images/backgrounds/jdd_background.jpg"

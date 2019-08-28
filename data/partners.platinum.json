@@ -1,0 +1,14 @@
+{
+  "000": {
+    "name": "Nextiva",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fnextiva_logo_rgb.png?alt=media&token=4cfad914-f303-45c9-aaff-ff277909250e",
+    "order": 0,
+    "url": "https://www.nextiva.com"
+  },
+  "001": {
+    "order": 1,
+    "url": "https://www.luxoft.com/",
+    "name": "Luxoft",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fluxoft.jpeg?alt=media&token=4bbce966-83ef-4f5f-af42-0afdddbd2180"
+  }
+}

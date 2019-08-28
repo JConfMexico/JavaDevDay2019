@@ -1,0 +1,251 @@
+{
+  "Andres_Almiray": {
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FAndres_Almiray.jpeg?alt=media&token=f4a6c767-874c-4526-8c01-a392f54e3784",
+    "name": "Andrés Almiray",
+    "bio": "Andrés un desarrollador Java/Groovy y Java Champion con mas de 20 años en la industria de desarrollo de software, la mayoría del tiempo haciendo uso de Java desde sus inicios en 1995 y en los últimos años, Groovy. A lo largo de su carrera profesional ha diseñado e implementado numerosos proyectos tanto para ambientes web como de escritorio. Convencido de las ventajas del software libre, ha participado en proyectos reconocidos como lo son el lenguaje Groovy, JMatter y DbUnit, así como tambien inicio sus propios proyectos (Json-lib, EZMorph, GfxBuilder, JideBuilder). Miembro fundador y líder actual del proyecto Griffon y de la comunidad Hackergarten.",
+    "id": "Andres_Almiray",
+    "talk": "Gradle Ex Machina",
+    "order": 2,
+    "featured": true,
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/aalmiray",
+        "icon": "twitter"
+      }
+    ],
+    "tags": [
+      "build tools"
+    ]
+  },
+  "Enrique_Zamudio": {
+    "bio": "Enrique Zamudio ha desarrollado software durante 25 años, desde 1994, especializándose en sistemas de backend e interfaces host-to-host. Fue nombrado Java Champion en 2015 y fue parte del equipo que desarrolló el lenguaje de programación Ceylon durante 6 años. Actualmente es Senior Software Engineer en Bitso, como parte del Core Team.",
+    "order": 1,
+    "featured": true,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FEnrique_Zamudio.jpeg?alt=media&token=5639141d-bf5e-4345-a7cd-f48c22597508",
+    "name": "Enrique Zamudio",
+    "id": "Enrique_Zamudio",
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/chochosmx",
+        "icon": "twitter"
+      }
+    ],
+    "tags": [
+      "java",
+      "concurrency",
+      "distributed"
+    ]
+  },
+  "Hilmer_Chona": {
+    "order": 5,
+    "featured": true,
+    "bio": "Hillmer es Java Champion, Ingeniero de Sistemas, Líder de @MedellinJUG, Ganador de un Duke's Choice Award, enfocado en desarrollo de software con tecnologias Java.",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FHilmer_Chona.jpeg?alt=media&token=da89b193-6c56-4be6-a176-5e2af23dd804",
+    "name": "Hilmer Chona",
+    "id": "Hilmer_Chona",
+    "talk": "",
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/HillmerCh",
+        "icon": "twitter"
+      }
+    ],
+    "tags": [
+      "java",
+      "cloud",
+      "docker",
+      "kubernetes"
+    ]
+  },
+  "Isaac_Ruiz": {
+    "id": "Isaac_Ruiz",
+    "bio": "Isaac Ruiz Guerra es programador de Java desde 2001 y consultor de TI desde 2003. \nIsaac está especializado en integración de sistemas, ha participado en proyectos principalmente relacionados al sector financiero.\nHa trabajado principalmente en el backend utilizando lenguajes como java, python y elixir.\n\nDurante más de 10 años ha trabajado con diferentes servidores de aplicaciones para el mundo java y ahora intenta adaptar esos conocimientos a las nuevas arquitecturas de despliegue.\n\nIsaac está actualmente interesado en temas como: microservicios, cloudnative y serverless.\nEstá también interesado en la formación de equipos interdisciplinarios y de alto rendimiento.\nIsaac forma parte del staff de javaMéxico.",
+    "order": 6,
+    "featured": true,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FIsaac_Ruiz.jpeg?alt=media&token=04296c12-8864-44b2-86fc-a03cf9057ac2",
+    "name": "Isaac Ruiz",
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/rugi",
+        "icon": "twitter"
+      }
+    ],
+    "tags": [
+      "java",
+      "microprofile",
+      "metrics"
+    ]
+  },
+  "Mercedes_Wyss": {
+    "talk": "Modern Identity Management (in the Era of Serverless and Microservices)",
+    "bio": "Mercedes Wyss es Ingeniera de Software con más de siete años de experiencia en desarrollo backend, frontend y Android utilizando Java, Kotlin y Python. Actualmente, es CTO en Produactivity, una startup con base en Guatemala.\n\nElla estuvo organizando previamente meetings en el Grupo de Usuarios Java de Guatemala desde el 2012 hasta el 2016. Desde el 2016 se ha enfocado en incrementar la participación femenina en STEAM liderando un capítulo JDuchess en Guatemala y también lidera una comunidad enfocada en tecnologías Google (Devs+502).\n\nElla es Oracle Groundbreaker Ambassador y Auth0 Ambassador, y tiene un Duke's Choice Award en extensión educativa.",
+    "order": 0,
+    "featured": true,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FMercedes_Wyss.jpg?alt=media&token=abcb8015-60d8-4fbc-8abf-8edf88eb39d2",
+    "name": "Mercedes Wyss",
+    "id": "Mercedes_Wyss",
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/itrjwyss",
+        "icon": "twitter"
+      }
+    ],
+    "tags": [
+      "security"
+    ]
+  },
+  "Miro_Cupak": {
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FMiro_Cupak.jpeg?alt=media&token=6b2571c9-205c-42fe-8d72-b2414f74222f",
+    "name": "Miro Cupak",
+    "id": "Miro_Cupak",
+    "bio": "Miro is a Co-founder and VP Engineering at DNAstack, where he builds a leading genomics cloud platform. He is a Java enthusiast with expertise in distributed systems and middleware, passionate about genetics and making meaningful software. Miro is the creator of the largest search and discovery engine of human genetic data, and the author of a book on parallelization of genomic queries. In his spare time, he blogs and contributes to several open-source projects.",
+    "order": 3,
+    "featured": true,
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/mirocupak",
+        "icon": "twitter"
+      }
+    ],
+    "tags": [
+      "java",
+      "api"
+    ]
+  },
+  "Raul_Estrada": {
+    "id": "Raul_Estrada",
+    "order": 7,
+    "bio": "Raúl Estrada is a programmer since 1996 and Java Developer since 2001. He loves all the topics related to Computer Science. With more than 15 years of experience in High Availability and Enterprise Software, has designed and implemented architectures since 2003. Raúl is the author of books such as \"Fast Data Processing Systems with SMACK\", \"Apache Kafka Cookbook\" and \"Apache Kafka Quick Start Guide\"",
+    "featured": true,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FRaul_Estrada.jpeg?alt=media&token=e1114343-a393-4729-ac3f-f794cb8e561a",
+    "name": "Raúl Estrada",
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/BusinessRul",
+        "icon": "twitter"
+      }
+    ],
+    "tags": [
+      "java",
+      "api"
+    ]
+  },
+  "Ricardo_Cantillo": {
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FRicardo_Cantillo.jpeg?alt=media&token=a0946035-4b48-4d02-b285-ed3b68d2040d",
+    "name": "Ricardo Cantillo",
+    "id": "Ricardo_Cantillo",
+    "bio": "Ricardo es Ingeniero de Sistems y Computacion, con mas de 20 años de experiencia en desarrollo de Software, es co lider la JUG BAQ (Java  User Group Barranquilla) y director del CDS Sena.",
+    "talk": "",
+    "order": 8,
+    "featured": true,
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/recantilloc",
+        "icon": "twitter"
+      }
+    ],
+    "tags": [
+      "big data",
+      "streaming"
+    ]
+  },
+  "Sergio_Martinez": {
+    "id": "Sergio_Martinez",
+    "bio": "Desarrollador, en el mundo Java desde el 2004, participó en el desarrollo de WebBuilder, SemanticWebBuilder y Cloudino así como en el diseño y la implementación de las versiones iniciales de gobierno.mx y el nodo Fiware México del Infotec. Interesado en desarrollo de software de alto desempeño, seguridad y computo en la nube.",
+    "order": 4,
+    "featured": true,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FSergio_Martinez.jpeg?alt=media&token=e95417d7-e6c0-4397-a1de-1c3ca4b4cf4d",
+    "name": "Sergio Martínez",
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/SuperSerch",
+        "icon": "twitter"
+      }
+    ]
+  },
+  "Ixchel_Ruiz": {
+    "order": 9,
+    "bio": "Ixchel Ruiz ha desarrollado software aplicaciones y herramientas desde el 2000. Sus areas de interés incluyen Java,  lenguajes dinámicos, tecnologías para aplicaciones cliente y pruebas. Java Champion, Oracle Developer Champion, hackergarten entusiasta, propulsor de Software abierto, conferencista y mentor.",
+    "featured": true,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FIxchel_Ruiz.jpeg?alt=media&token=3fa5d2c6-b750-48df-8eff-4e35450b2f8b",
+    "name": "Ixchel Ruiz",
+    "id": "Ixchel_Ruiz",
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/ixchelruiz",
+        "icon": "twitter"
+      }
+    ]
+  },
+  "Isabel_Palomar": {
+    "order": 10,
+    "bio": "Isabel Palomar is a Mexican Software engineer whose expertise covers back-end and Android development. She has co-organized several tech communities in Mexico and US such as GDG Guadalajara, Tech Women Community, WWCode Ciudad Guzmán and JUG PA, and participated as a mentor and teacher in educational platforms like CodePath and Edx. \n\nShe is currently learning about Elixir and Deep Learning. In her free time, she loves to have random hobbies, such as dancing, fitness, reading, traveling, and art.",
+    "featured": true,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FIsabel_Palomar.jpg?alt=media&token=60215e4d-d966-4e6b-99a0-dd1fdcb037ce",
+    "name": "Isabel Palomar",
+    "id": "Isabel_Palomar",
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/IsabelPalomar",
+        "icon": "twitter"
+      }
+    ]
+  },
+  "Domingo_Suarez": {
+    "order": 11,
+    "bio": "Domingo Suarez Torres es ingeniero de software y Java Champion con 20 años de experiencia en la industria en diversos sectores como financiero, ecommerce, medios, seguros y gobierno. Actualmente esta al frente de su compañia en la cual brinda consultoría y capacitación a clientes en México y latam. Forma parte de los organizadores del JVM Group de Ciudad de México y es fundador de Cloud Native México.",
+    "featured": true,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FDomingo_Suarez.jpeg?alt=media&token=966d3058-6a37-4e67-bb06-629f33ea2060",
+    "name": "Domingo Suarez",
+    "id": "Domingo_Suarez",
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/domix",
+        "icon": "twitter"
+      }
+    ]
+  },
+  "Phil_Steitz": {
+    "order": 12,
+    "bio": "Phil joined Nextiva in 2019 as Chief Technology Officer, responsible for engineering Nextiva products. He has extensive technology leadership and development experience, both as a SaaS software CTO and as a financial services technology executive. Phil comes to Nextiva from Pegasus Solutions, where he led product development as well as technology. He was formerly the global CTO of American Express. Phil holds a PhD in mathematics from the University of Maryland. As an active member of the Apache Software Foundation, he has served in numerous volunteer roles, including as a Director and Chairman of the ASF Board of Directors.",
+    "featured": true,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FPhil_Steitz.jpeg?alt=media&token=ad2120a6-4377-42a3-96c0-eaf8f67ed2ba",
+    "name": "Phil Steitz",
+    "id": "Phil_Steitz"
+  },
+  "Alejandro_Cardenas": {
+    "order": 13,
+    "bio": "Alex tiene al rededor de 15 años como desarrollador, enfocado en tecnologías de backend, actualmente trabaja en DigitalOnUs como Director de las practicas de Desarrollo (Backend, Frontend y Mobile).\nSu experiencia técnica esta enfocada al desarrollo de backends y en los últimos años ha trabajado en el diseño e implementación de micro servicios de aplicaciones desde cero hasta migrar monolíticas a este tipo de arquitecturas, además de promover la innovación dentro de su equipo de trabajo, pero en su tiempo libre le gusta pasea con sus 4 perros y disfruta la carne asada.",
+    "featured": true,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FAlejandro_Cardenas.jpeg?alt=media&token=4d3540ec-1f40-454b-893c-cfc88310221f",
+    "name": "Alejandro Cardenas",
+    "id": "Alejandro_Cardenas"
+  },
+  "Billy_Korando": {
+    "order": 14,
+    "bio": "Billy is a developer advocate with IBM and has over a decade of experience. Billy is passionate about finding ways to reduce mental capacity waste from tedious work; such as project initiation, deployment, testing and validation, and so on through automation and good management practices. Outside of work Billy enjoy traveling, playing kickball, and having his heartbroken by cheering on the Kansas City Chiefs.",
+    "featured": true,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FBilly_Korando.jpg?alt=media&token=4c71a6dd-aae8-4fef-a6db-a959845c8c66",
+    "name": "Billy Korando",
+    "id": "Billy_Korando",
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/BillyKorando",
+        "icon": "twitter"
+      }
+    ]
+  }
+}

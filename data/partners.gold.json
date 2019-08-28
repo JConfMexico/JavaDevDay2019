@@ -1,0 +1,20 @@
+{
+  "000": {
+    "order": 0,
+    "url": "https://www.digitalonus.com",
+    "name": "DigitalOnUs",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fdigital.png?alt=media&token=5f49f6fe-16c0-45f4-a312-f15e9b4893d4"
+  },
+  "001": {
+    "order": 1,
+    "url": "https://bitso.com",
+    "name": "Bitso",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fbitso.jpeg?alt=media&token=622dc8cc-188b-41d8-adfc-8071c6217a6b"
+  },
+  "002": {
+    "order": 2,
+    "url": "https://www.tacitknowledge.com/",
+    "name": "Tacit Knowledge",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fsponsors_Logo_Tacit_Gris.png?alt=media&token=424f4e92-b25a-4eb1-ae4a-aabaa5005b36"
+  }
+}
