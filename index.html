@@ -15,10 +15,10 @@
 
   <link rel="canonical" href="{$ url $}">
 
-  <link rel="icon" href="images/jdd2019.png">
+  <link rel="icon" href="/images/jdd2019.png">
 
   <meta name="theme-color" content="{$ webapp.themeColor $}">
-  <link rel="manifest" href="manifest.json">
+  <link rel="manifest" href="/manifest.json">
 
   <!-- Add to homescreen for Chrome on Android -->
   <meta name="mobile-web-app-capable" content="yes">
@@ -33,13 +33,17 @@
 
   <!-- Homescreen icons. -->
   <link rel="apple-touch-icon" href="images/manifest/icon-48.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="images/manifest/icon-72.png">
-  <link rel="apple-touch-icon" sizes="96x96" href="images/manifest/icon-96.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="images/manifest/icon-144.png">
-  <link rel="apple-touch-icon" sizes="192x192" href="images/manifest/icon-192.png">
+  <link rel="apple-touch-icon" sizes="72x72"
+        href="/images/manifest/icon-72.png">
+  <link rel="apple-touch-icon" sizes="96x96"
+        href="/images/manifest/icon-96.png">
+  <link rel="apple-touch-icon" sizes="144x144"
+        href="/images/manifest/icon-144.png">
+  <link rel="apple-touch-icon" sizes="192x192"
+        href="/images/manifest/icon-192.png">
 
   <!-- Tile icon for Win8 (144x144 + tile color) -->
-  <meta name="msapplication-TileImage" content="images/manifest/icon-144.png">
+  <meta name="msapplication-TileImage" content="/images/manifest/icon-144.png">
   <meta name="msapplication-TileColor" content="#00aba9">
   <meta name="msapplication-tap-highlight" content="no">
 
@@ -85,7 +89,7 @@
       return Promise.all(
         modules.map((module) => new Promise((resolve, reject) => {
           const script = document.createElement('script');
-          script.src = `bower_components/firebase/${module}.js`;
+          script.src = `/bower_components/firebase/${module}.js`;
           script.async = false;
           script.onload = () => resolve();
           script.onerror = () => reject();
@@ -131,9 +135,10 @@
 
   </script>
 
-  <script src="bower_components/webcomponentsjs/webcomponents-loader.js"></script>
-  <link rel="import" href="src/hoverboard-app.html">
-  <script src="scripts/service-worker-registration.js" async defer></script>
+  <script
+    src="/bower_components/webcomponentsjs/webcomponents-loader.js"></script>
+  <link rel="import" href="/src/hoverboard-app.html">
+  <script src="/scripts/service-worker-registration.js" async defer></script>
 
   <style>
 

@@ -1,0 +1,14 @@
+{
+  "000": {
+    "name": "Auth0",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fauth0-logo-monotone-black.png?alt=media&token=9b0ec681-d297-441b-9ba4-9cc3b034190b",
+    "order": 0,
+    "url": "https://auth0.com"
+  },
+  "001": {
+    "name": "Circulo Siete",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2FCirculoSiete.jpeg?alt=media&token=32c21c27-8dc5-4e11-9958-7455ac9fa01d",
+    "order": 1,
+    "url": "https://circulosiete.com/"
+  }
+}
