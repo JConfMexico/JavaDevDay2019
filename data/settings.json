@@ -1,12 +1,11 @@
 {
   "organizer": {
-    "name": "Apache Beam community team",
-    "twitter": "apachebeam",
-    "blog": "https://beam.apache.org/blog",
-    "url": "https://beam.apache.org"
+    "name": "GDL JUG & J4G",
+    "twitter": "javadevdaymex",
+    "url": "https://javadevday.mx/"
   },
-  "startDate": "2019-06-193T09:00:00+01:00",
-  "endDate": "2019-06-20T19:00:00+01:00",
+  "startDate": "2019-09-283T12:00:00+05:00",
+  "endDate": "2019-09-28T20:00:00+05:00",
   "webapp": {
     "shortName": "Java Dev Day",
     "themeColor": "#df4b2b",
@@ -15,7 +14,7 @@
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "beamsummit",
+  "hashtag": "jddmx2019",
   "disabledSchedule": false,
   "showSessionShortAbstract": true,
   "navigation": [
@@ -142,15 +141,15 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/London-Apache-Beam-Meetup"
+        "url": "https://www.meetup.com/j4Guanatos"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/beamsummit"
+        "url": "https://twitter.com/javadevdaymex"
       },
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/c/apachebeamyt"
+        "name": "facebook",
+        "url": "https://www.facebook.com/JavaDevDay"
       }
     ],
     "share": [
@@ -164,7 +163,7 @@
       }
     ]
   },
-  "mailto": "contact@beamsummit.org",
+  "mailto": "java.dev.day@gmail.com",
   "mailchimp": {
     "url": "",
     "name": ""

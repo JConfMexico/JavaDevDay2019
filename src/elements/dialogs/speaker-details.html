@@ -170,7 +170,9 @@
 
       _close() {
         dialogsActions.closeDialog(DIALOGS.SPEAKER);
-        history.back();
+        if (document.referrer !== '') {
+          history.back();
+        }
       }
 
       _openSession(e) {

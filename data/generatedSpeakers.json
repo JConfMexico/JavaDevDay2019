@@ -247,5 +247,35 @@
         "icon": "twitter"
       }
     ]
+  },
+  "Melissa_McKay": {
+    "order": 15,
+    "bio": "Melissa is currently based in Denver, Colorado, and is employed with Comcast Technology Solutions where she is actively involved in developing cloud architectures and tools that will help to bring the packaging and delivery of media to the next level.  She has been in the industry over 18 years and her background and experience spans a slew of technologies and tools used in the development and operation of enterprise products and services.  Melissa is active in the developer community, and holds a special place in her heart for the JCrete Unconference held annually in Crete, Greece, where she has had the opportunity to meet some of the most skilled and passionate people in the Java community.",
+    "featured": true,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FMelissa_McKay.jpeg?alt=media&token=e56d928b-798a-47ce-97bf-3127ad6e0925",
+    "name": "Melissa McKay",
+    "id": "Melissa_McKay",
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/melissajmckay",
+        "icon": "twitter"
+      }
+    ]
+  },
+  "Joel_Humberto_Gomez": {
+    "order": 16,
+    "bio": "Application Developer en IBM, Full Snack JS Developer, Google Developer Expert en Web Technologies, Google Developer Expert en Google Maps Platform y maestro pokemon amante de los tacos.",
+    "featured": true,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FJoel_Humberto_Gomez.jpeg?alt=media&token=1f10d1ef-05c0-4283-8656-a5ec67e5f573",
+    "name": "Joel Humberto Gomez",
+    "id": "Joel_Humberto_Gomez",
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/DezkaReid",
+        "icon": "twitter"
+      }
+    ]
   }
 }

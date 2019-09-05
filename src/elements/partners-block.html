@@ -28,6 +28,14 @@
         grid-gap: 8px;
       }
 
+      .logos-wrapper.platinum {
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      }
+
+      .logos-wrapper.gold {
+        grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      }
+
       .logo-item {
         padding: 24px;
       }
@@ -35,6 +43,14 @@
       .logo-img {
         height: 60px;
         width: 100%;
+      }
+
+      .platinum .logo-img {
+        height: 100px;
+      }
+
+      .gold .logo-img {
+        height: 80px;
       }
 
       .cta-button {
@@ -61,7 +77,7 @@
 
       <template is="dom-repeat" items="[[partners]]" as="block">
           <h4 class="block-title">[[block.title]]</h4>
-          <div class="logos-wrapper">
+          <div class$="logos-wrapper [[block.class]]">
             <template is="dom-repeat" items="[[block.items]]" as="logo">
               <a
                 class="logo-item card"

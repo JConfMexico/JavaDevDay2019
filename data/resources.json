@@ -1,10 +1,10 @@
 {
   "title": "Java Dev Day 2019",
-  "description": "You cannot miss this great event made by developers for developers.!",
+  "description": "You cannot miss this great event made by developers for developers!",
   "image": "images/social-share.jpg",
   "keywords": "event, JDD, devfest, java, programming, JVM, cloud, Guadalajara, Mexico",
   "dates": "Sept 28, 2019",
-  "partnershipProposition": "https://drive.google.com/open?id=1R3vvOHihQbpuzF2aaSV8WYg9YHRmJwxS",
+  "partnershipProposition": "https://docs.google.com/presentation/d/1NnklkzlGjwOQ9VT9lMULJLVxntbgJCgIath7BTR6JOM/edit?usp=sharing",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
@@ -37,13 +37,8 @@
       "title": "About",
       "links": [
         {
-          "name": "Apache Beam",
-          "url": "https://beam.apache.org/",
-          "newTab": true
-        },
-        {
-          "name": "Apache Beam blog",
-          "url": "https://beam.apache.org/blog",
+          "name": "Facebook Event",
+          "url": "https://www.facebook.com/events/414462262752554/",
           "newTab": true
         },
         {
@@ -63,18 +58,8 @@
         },
         {
           "name": "Call for Papers",
-          "url": "https://sessionize.com/beam-summit-europe-2019/",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSeeg-cvgbwmvKvk2f0c4LOd1a8EV83v0EJqapXZyZcI9mVpdg/viewform",
           "newTab": true
-        },
-        {
-          "name": "Code of Conduct",
-          "url": "/faq/#code-of-conduct",
-          "newTab": true
-        },
-        {
-          "name": "FAQs",
-          "url": "/faq/",
-          "newTab": false
         }
       ]
     }
@@ -106,11 +91,11 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "15+"
+        "number": "20+"
       },
       "tracks": {
         "label": "Speakers",
-        "number": "10+"
+        "number": "18+"
       }
     }
   },
