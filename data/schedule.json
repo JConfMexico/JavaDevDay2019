@@ -1,192 +1,200 @@
 {
-    "2019-09-28": {
-        "date": "2019-09-28",
-        "tracks": [
-            {
-                "title": "Sala de Música"
-            },
-            {
-                "title": "Sala Luxoft"
-            },
-            {
-                "title": "Centro de negocios"
-            },
-            {
-                "title": "Velaria"
-            }
+  "2019-09-28": {
+    "date": "2019-09-28",
+    "tracks": [
+      {
+        "title": "Sala de Música"
+      },
+      {
+        "title": "Sala Luxoft"
+      },
+      {
+        "title": "Centro de negocios"
+      }
+    ],
+    "dateReadable": "September 28th",
+    "timeslots": [
+      {
+        "sessions": [
+          {
+            "items": [
+              1
+            ]
+          }
         ],
-        "dateReadable": "September 28th",
-        "timeslots": [
-            {
-                "sessions": [
-                    {
-                        "items": [
-                            1
-                        ]
-                    }
-                ],
-                "endTime": "11:30",
-                "startTime": "10:30"
-            },
-            {
-                "sessions": [
-                    {
-                        "items": [
-                            2
-                        ]
-                    }
-                ],
-                "endTime": "11:30",
-                "startTime": "12:00"
-            },
-            {
-                "sessions": [
-                    {
-                        "items": [
-                            117
-                        ]
-                    },
-                    {
-                        "items": [
-                            104
-                        ]
-                    },
-                    {
-                        "items": [
-                            109
-                        ]
-                    }
-                ],
-                "endTime": "12:00",
-                "startTime": "13:00"
-            },
-            {
-                "sessions": [
-                    {
-                        "items": [
-                            114
-                        ]
-                    },
-                    {
-                        "items": [
-                            110
-                        ]
-                    },
-                    {
-                        "items": [
-                            115
-                        ]
-                    }
-                ],
-                "endTime": "13:00",
-                "startTime": "14:00"
-            },
-            {
-                "sessions": [
-                    {
-                        "items": [
-                            1
-                        ]
-                    },
-                    {
-                        "items": [
-                            108
-                        ]
-                    },
-                    {
-                        "items": [
-                            107
-                        ]
-                    }
-                ],
-                "endTime": "14:00",
-                "startTime": "15:00"
-            },
-            {
-                "sessions": [
-                    {
-                        "items": [
-                            103
-                        ]
-                    },
-                    {
-                        "items": [
-                            105
-                        ]
-                    },
-                    {
-                        "items": [
-                            116
-                        ]
-                    }
-                ],
-                "endTime": "17:00",
-                "startTime": "18:00"
-            },
-            {
-                "sessions": [
-                    {
-                        "items": [
-                            100
-                        ]
-                    },
-                    {
-                        "items": [
-                            106
-                        ]
-                    },
-                    {
-                        "items": [
-                            101
-                        ]
-                    }
-                ],
-                "endTime": "18:00",
-                "startTime": "19:00"
-            },
-            {
-                "sessions": [
-                    {
-                        "items": [
-                            111
-                        ]
-                    },
-                    {
-                        "items": [
-                            112
-                        ]
-                    },
-                    {
-                        "items": [
-                            102
-                        ]
-                    }
-                ],
-                "endTime": "19:00",
-                "startTime": "20:00"
-            },
-            {
-                "sessions": [
-                    {
-                        "items": [
-                            3
-                        ]
-                    }
-                ],
-                "endTime": "20:00",
-                "startTime": "21:00"
-            },
-            {
-                "sessions": [
-                    {
-                        "items": [
-                            4
-                        ]
-                    }
-                ],
-                "endTime": "21:00",
-                "startTime": "22:00"
-            }
-        ]
-    }
+        "startTime": "10:30",
+        "endTime": "11:30"
+      },
+      {
+        "sessions": [
+          {
+            "items": [
+              2
+            ]
+          }
+        ],
+        "startTime": "11:30",
+        "endTime": "12:00"
+      },
+      {
+        "sessions": [
+          {
+            "items": [
+              117
+            ]
+          },
+          {
+            "items": [
+              104
+            ]
+          },
+          {
+            "items": [
+              109
+            ]
+          }
+        ],
+        "endTime": "13:00",
+        "startTime": "12:00"
+      },
+      {
+        "sessions": [
+          {
+            "items": [
+              114
+            ]
+          },
+          {
+            "items": [
+              110
+            ]
+          },
+          {
+            "items": [
+              115
+            ]
+          }
+        ],
+        "endTime": "14:00",
+        "startTime": "13:00"
+      },
+      {
+        "sessions": [
+          {
+            "items": [
+              119
+            ]
+          },
+          {
+            "items": [
+              108
+            ]
+          },
+          {
+            "items": [
+              107
+            ]
+          }
+        ],
+        "endTime": "15:00",
+        "startTime": "14:00"
+      },
+      {
+        "sessions": [
+          {
+            "items": [
+              5
+            ]
+          }
+        ],
+        "startTime": "15:00",
+        "endTime": "17:00"
+      },
+      {
+        "sessions": [
+          {
+            "items": [
+              103
+            ]
+          },
+          {
+            "items": [
+              105
+            ]
+          },
+          {
+            "items": [
+              116
+            ]
+          }
+        ],
+        "endTime": "18:00",
+        "startTime": "17:00"
+      },
+      {
+        "sessions": [
+          {
+            "items": [
+              100
+            ]
+          },
+          {
+            "items": [
+              106
+            ]
+          },
+          {
+            "items": [
+              101
+            ]
+          }
+        ],
+        "endTime": "19:00",
+        "startTime": "18:00"
+      },
+      {
+        "sessions": [
+          {
+            "items": [
+              111
+            ]
+          },
+          {
+            "items": [
+              112
+            ]
+          },
+          {
+            "items": [
+              102
+            ]
+          }
+        ],
+        "endTime": "20:00",
+        "startTime": "19:00"
+      },
+      {
+        "sessions": [
+          {
+            "items": [
+              3
+            ]
+          }
+        ],
+        "endTime": "21:00",
+        "startTime": "20:00"
+      },
+      {
+        "sessions": [
+          {
+            "items": [
+              4
+            ]
+          }
+        ],
+        "endTime": "22:00",
+        "startTime": "21:00"
+      }
+    ]
+  }
 }

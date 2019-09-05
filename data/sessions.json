@@ -1,263 +1,263 @@
 {
-    "1": {
-        "icon": "registration",
-        "title": "Registration & morning coffee",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
-        "description": "Get your badge, coffee, enjoy talking to each other"
-    },
-    "2": {
-        "description": "Official start of the conferences. Greetings from the organizers, sponsors and partners.",
-        "icon": "opening",
-        "title": "Java Dev Day 2019 Opening",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
-        "language": "English"
-    },
-    "3": {
-        "description": "Time to say see you next year, reward the winners of challenges and receive more surprises from our sponsors",
-        "title": "Closing, surprises and gifts",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed"
-    },
-    "4": {
-        "description": "Time to talk with speakears, organizers, sponsors and meet more great people",
-        "icon": "party",
-        "title": "Networking",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1"
-    },
-    "5": {
-        "description": "Enjoy the delicious mexican food that organizers and sponsors ",
-        "icon": "lunch",
-        "title": "Lunch",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225"
-        },
-      "100": {
-          "speakers": [
-              "Andres_Almiray"
-          ],
-          "title": "Gradle Ex Machina",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      },
-      "101": {
-          "speakers": [
-              "Hilmer_Chona"
-          ],
-          "title": "Deploying Java Applications with Kubernetes",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      },
-      "102": {
-          "speakers": [
-              "Isaac_Ruiz"
-          ],
-          "title": "El camino a la observabilidad comienza con la 1a métrica",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      },
-      "103": {
-          "speakers": [
-              "Mercedes_Wyss"
-          ],
-          "title": "Modern Identity Management (in the Era of Serverless and Microservices)",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      },
-      "104": {
-          "speakers": [
-              "Miro_Cupak"
-          ],
-          "title": "The Good, the Bad and the Ugly of Java API design",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      },
-      "105": {
-          "speakers": [
-              "Raul_Estrada"
-          ],
-          "title": "Building a Stream App with Apache Kafka and Kotlin",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      },
-      "106": {
-          "speakers": [
-              "Ricardo_Cantillo"
-          ],
-          "title": "Vaadin Como una Herramienta Para Desarrollo Front-End en Java",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      },
-      "107": {
-          "speakers": [
-              "Sergio_Martinez"
-          ],
-          "title": "Introducción al manejo de memoria en el JVM",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      },
-      "108": {
-          "speakers": [
-              "Ixchel_Ruiz"
-          ],
-          "title": "Impulsa tu carrera al siguiente nivel",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      },
-      "109": {
-          "speakers": [
-              "Isabel_Palomar"
-          ],
-          "title": "Creando un modelo personalizado de Machine Learning",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      },
-      "110": {
-          "speakers": [
-              "Domingo_Suarez"
-          ],
-          "title": "No Kuberneteen por convivir shiavos",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      },
-      "111": {
-          "speakers": [
-              "Phil_Steitz"
-          ],
-          "title": "TBD",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      },
-      "112": {
-          "speakers": [
-              "Alejandro_Cardenas"
-          ],
-          "title": "First Microservice using springboot",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      },
-      "113": {
-          "speakers": [
-              "Billy_Korando"
-          ],
-          "title": "OpenJ9 a Lean, Mean, Java Virtual Machine for the Cloud",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      },
-      "114": {
-          "speakers": [
-              "Melissa_McKay"
-          ],
-          "title": "Bringing It All Together: A Comparison of Service Mesh Solutions",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      },
-      "115": {
-          "speakers": [
-              "Joel_Humberto_Gomez"
-          ],
-          "title": "Java in JS Code The Power Of Web Assembly",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      },
-      "116": {
-          "speakers": [
-              "Miro_Cupak"
-          ],
-          "title": "Exploring reactive programming in Java",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      },
-      "117": {
-          "speakers": [
-              "Enrique_Zamudio"
-          ],
-          "title": "Synchronized is obsolete",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      },
-      "118": {
-          "speakers": [
-              ""
-          ],
-          "title": "",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      },
-      "119": {
-          "speakers": [
-              ""
-          ],
-          "title": "",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      },
-      "120": {
-          "speakers": [
-              ""
-          ],
-          "title": "",
-          "description": "",
-          "tags": [
-              "Technical Talk"
-            ],
-          "complexity": "Basic"
-      }
+  "1": {
+    "icon": "registration",
+    "title": "Registration & morning coffee",
+    "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
+    "description": "Get your badge, coffee, enjoy talking to each other"
+  },
+  "2": {
+    "description": "Official start of the conferences. Greetings from the organizers, sponsors and partners.",
+    "icon": "opening",
+    "title": "Java Dev Day 2019 Opening",
+    "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
+    "language": "English"
+  },
+  "3": {
+    "description": "Time to say see you next year, reward the winners of challenges and receive more surprises from our sponsors",
+    "title": "Closing, surprises and gifts",
+    "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed"
+  },
+  "4": {
+    "description": "Time to talk with speakers, organizers, sponsors and meet more great people",
+    "icon": "party",
+    "title": "Networking",
+    "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1"
+  },
+  "5": {
+    "description": "Enjoy the delicious mexican food that organizers and sponsors ",
+    "icon": "lunch",
+    "title": "Lunch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225"
+  },
+  "100": {
+    "speakers": [
+      "Andres_Almiray"
+    ],
+    "title": "Gradle Ex Machina",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  },
+  "101": {
+    "speakers": [
+      "Hilmer_Chona"
+    ],
+    "title": "Deploying Java Applications with Kubernetes",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  },
+  "102": {
+    "speakers": [
+      "Isaac_Ruiz"
+    ],
+    "title": "El camino a la observabilidad comienza con la 1a métrica",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  },
+  "103": {
+    "speakers": [
+      "Mercedes_Wyss"
+    ],
+    "title": "Modern Identity Management (in the Era of Serverless and Microservices)",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  },
+  "104": {
+    "speakers": [
+      "Miro_Cupak"
+    ],
+    "title": "The Good, the Bad and the Ugly of Java API design",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  },
+  "105": {
+    "speakers": [
+      "Raul_Estrada"
+    ],
+    "title": "Building a Stream App with Apache Kafka and Kotlin",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  },
+  "106": {
+    "speakers": [
+      "Ricardo_Cantillo"
+    ],
+    "title": "Vaadin Como una Herramienta Para Desarrollo Front-End en Java",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  },
+  "107": {
+    "speakers": [
+      "Sergio_Martinez"
+    ],
+    "title": "Introducción al manejo de memoria en el JVM",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  },
+  "108": {
+    "speakers": [
+      "Ixchel_Ruiz"
+    ],
+    "title": "Impulsa tu carrera al siguiente nivel",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  },
+  "109": {
+    "speakers": [
+      "Isabel_Palomar"
+    ],
+    "title": "Creando un modelo personalizado de Machine Learning",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  },
+  "110": {
+    "speakers": [
+      "Domingo_Suarez"
+    ],
+    "title": "No Kuberneteen por convivir shiavos",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  },
+  "111": {
+    "speakers": [
+      "Phil_Steitz"
+    ],
+    "title": "TBD",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  },
+  "112": {
+    "speakers": [
+      "Alejandro_Cardenas"
+    ],
+    "title": "First Microservice using springboot",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  },
+  "113": {
+    "speakers": [
+      "Billy_Korando"
+    ],
+    "title": "OpenJ9 a Lean, Mean, Java Virtual Machine for the Cloud",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  },
+  "114": {
+    "speakers": [
+      "Melissa_McKay"
+    ],
+    "title": "Bringing It All Together: A Comparison of Service Mesh Solutions",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  },
+  "115": {
+    "speakers": [
+      "Joel_Humberto_Gomez"
+    ],
+    "title": "Java in JS Code The Power Of Web Assembly",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  },
+  "116": {
+    "speakers": [
+      "Miro_Cupak"
+    ],
+    "title": "Exploring reactive programming in Java",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  },
+  "117": {
+    "speakers": [
+      "Enrique_Zamudio"
+    ],
+    "title": "Synchronized is obsolete",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  },
+  "118": {
+    "speakers": [
+      ""
+    ],
+    "title": "",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  },
+  "119": {
+    "speakers": [
+      ""
+    ],
+    "title": "",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  },
+  "120": {
+    "speakers": [
+      ""
+    ],
+    "title": "",
+    "description": "",
+    "tags": [
+      "Technical Talk"
+    ],
+    "complexity": "Basic"
+  }
 }

@@ -4,8 +4,8 @@
     "twitter": "javadevdaymex",
     "url": "https://javadevday.mx/"
   },
-  "startDate": "2019-09-283T12:00:00+05:00",
-  "endDate": "2019-09-28T20:00:00+05:00",
+  "startDate": "2019-09-28T10:00:00+05:00",
+  "endDate": "2019-09-28T22:00:00+05:00",
   "webapp": {
     "shortName": "Java Dev Day",
     "themeColor": "#df4b2b",
@@ -27,6 +27,11 @@
       "route": "speakers",
       "permalink": "/speakers/",
       "label": "Speakers"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/",
+      "label": "Schedule"
     }
   ],
   "heroSettings": {
@@ -194,7 +199,7 @@
   },
   "contentLoaders": {
     "schedule": {
-      "itemsCount": 2
+      "itemsCount": 3
     },
     "blog": {
       "itemsCount": 3
