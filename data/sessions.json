@@ -2,6 +2,9 @@
   "1": {
     "icon": "registration",
     "title": "Registration & morning coffee",
+    "track": {
+      "title": "Main entrance"
+    },
     "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
     "description": "Get your badge, coffee, enjoy talking to each other"
   },
@@ -21,12 +24,18 @@
     "description": "Time to talk with speakers, organizers, sponsors and meet more great people",
     "icon": "party",
     "title": "Networking",
+    "track": {
+      "title": "Main entrance & Lobby"
+    },
     "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1"
   },
   "5": {
     "description": "Enjoy the delicious mexican food that organizers and sponsors ",
     "icon": "lunch",
     "title": "Lunch",
+    "track": {
+      "title": "Velaria"
+    },
     "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225"
   },
   "100": {
@@ -34,230 +43,291 @@
       "Andres_Almiray"
     ],
     "title": "Gradle Ex Machina",
-    "description": "",
+    "description": "The Gradle Build Tool is quite powerful and flexible, perhaps too flexible if you ask around. Every where you turn you encounter custom builds with different conventions and arrangements. If only there was a way to follow a structure than ensures top-down constraints in a build. Well it turns out it's possible! Come learn how you and your organization can leverage the powerful features found in the Gradle Build Tool while at the same time reducing clutter and head-scratching moments.",
     "tags": [
-      "Technical Talk"
+      "Technical Talk",
+      "Tools"
     ],
-    "complexity": "Basic"
+    "complexity": "Intermediate",
+    "language": "Spanish"
   },
   "101": {
     "speakers": [
       "Hilmer_Chona"
     ],
     "title": "Deploying Java Applications with Kubernetes",
-    "description": "",
+    "description": "There are several Java technologies that can be used to create microservices, regardless of which one is chosen, the most effective way to deploy them could be a containerized environment. Containerization helps to package applications to be released and updated severals times a day in an easy and fast way.  This demo-driven session shows how a Microservice can be developed  with Java Technologies,  packaged with containerization techniques and deploy on a Kubernetes Engine.",
     "tags": [
-      "Technical Talk"
+      "Technical Talk",
+      "Java",
+      "Containers",
+      "Microservice",
+      "Kubernetes",
+      "Cloud"
     ],
-    "complexity": "Basic"
+    "complexity": "Basic",
+    "language": "Spanish"
   },
   "102": {
     "speakers": [
       "Isaac_Ruiz"
     ],
     "title": "El camino a la observabilidad comienza con la 1a métrica",
-    "description": "",
+    "description": "El objetivo de la charla es mostrar las opciones que tiene microprofile para la generación de métricas, esto incluye los indicadores de health. Todo esto dentro del contexto del concepto de observabilidad.",
     "tags": [
-      "Technical Talk"
+      "Technical Talk",
+      "Microprofile"
     ],
-    "complexity": "Basic"
+    "complexity": "Basic",
+    "language": "Spanish"
   },
   "103": {
     "speakers": [
       "Mercedes_Wyss"
     ],
     "title": "Modern Identity Management (in the Era of Serverless and Microservices)",
-    "description": "",
+    "description": "If you believe that Identity Management (IdM) is just related with the Authentication and Authorization processes, this is a talk for you. \nIdM is an umbrella term for all of the core logic around identity. That means manage provisioning (assigning identities to user), account management (maintaining those identities), identity governance (assigning them to groups and roles and adjusting permissions as needed), authentication, authorization, identity federation (ensuring users can use the same identification data to access resources on related domains). A login is more than a Single Sign On, we can use Passwordless, Federated Identity (FB, GitHub), Multifactor Authentication, improving our users experience. \n\nThe main purpose of this talk is gain an in-depth knowledge of those terms, in addition explore some PaaS, that can help to achieve all that in our projects easier and faster.",
     "tags": [
-      "Technical Talk"
+      "Technical Talk",
+      "Security"
     ],
-    "complexity": "Basic"
+    "complexity": "Intermediate",
+    "language": "Spanish"
   },
   "104": {
     "speakers": [
       "Miro_Cupak"
     ],
     "title": "The Good, the Bad and the Ugly of Java API design",
-    "description": "",
+    "description": "With Java being a technology that’s over 20 years old, its strict requirements on backward compatibility, and thus the difficulty of removing functionality, modern JDKs inevitably contain APIs that did not withstand the test of time, and for various reasons are now hard to use, or exhibit other signs of poor design. As a result, in the last 2 years, we’ve seen several attempts at modernizing Java, and quite a few new APIs that provide nice and clean alternatives to their older counterparts.\n\nIn this live-coding session, we explore a series of commonly used Java APIs which cause troubles for developers. Learning from their mistakes, we draw principles for clean API design, and see how these were applied to the new features in JDK 9, 10, 11, and 12. As part of this exploration, we focus on Collections, StackWalker, ProcessHandle, HTTP/2 client APIs, and more.\n\nCome and find out how to make your code cleaner with the help of new features of modern JDKs, and figure out how to make your own APIs clean and pleasant to use by learning from Java’s mistakes!",
     "tags": [
-      "Technical Talk"
+      "Technical Talk",
+      "Java",
+      "API"
     ],
-    "complexity": "Basic"
+    "complexity": "Advanced",
+    "language": "English"
   },
   "105": {
     "speakers": [
       "Raul_Estrada"
     ],
     "title": "Building a Stream App with Apache Kafka and Kotlin",
-    "description": "",
+    "description": "In this talk we learn how to build with Apache Kafka, Kafka Streams, and KSQL a simple streaming application in Kotlin Language",
     "tags": [
-      "Technical Talk"
+      "Technical Talk",
+      "Streaming",
+      "Big Data",
+      "Kafka"
     ],
-    "complexity": "Basic"
+    "complexity": "Intermediate",
+    "language": "Spanish"
   },
   "106": {
     "speakers": [
       "Ricardo_Cantillo"
     ],
     "title": "Vaadin Como una Herramienta Para Desarrollo Front-End en Java",
-    "description": "",
+    "description": "Java se ha fortalecido como un Lenguaje para Back-end en todo tipo de aplicaciones, pero ¿que pasa con Java Para Front-End? Vaadin es un framework que se ha enfocado de manera fantástica en sacar todo el poder de Java para desarrollar el Front-End del “Lado del Servidor”.\nSpringBoot - Java EE.",
     "tags": [
-      "Technical Talk"
+      "Technical Talk",
+      "Java",
+      "Spring"
     ],
-    "complexity": "Basic"
+    "complexity": "Basic",
+    "language": "Spanish"
   },
   "107": {
     "speakers": [
       "Sergio_Martinez"
     ],
     "title": "Introducción al manejo de memoria en el JVM",
-    "description": "",
+    "description": "Introducción a los conceptos de memoria en el JVM como las diversas áreas de memoria, el concepto de memoria generacional, promoción temprana; así como una comparativa entre algunos colectores de basura disponibles en el JVM y como se procesa la memoria ocupada.",
     "tags": [
-      "Technical Talk"
+      "Technical Talk",
+      "JVM"
     ],
-    "complexity": "Basic"
+    "complexity": "Basic",
+    "language": "Spanish"
   },
   "108": {
     "speakers": [
       "Ixchel_Ruiz"
     ],
     "title": "Impulsa tu carrera al siguiente nivel",
-    "description": "",
+    "description": "Cómo estar en el lugar y el momento indicados para alcanzar el éxito en tu carrera profesional? Cuales son los puntos comunes entre los lideres de nuestro ramo? A lo largo de mi carrera profesional he tenido la suerte de conocer a grandes personalidades de nuestra industria y uno de los temas que mas me gusta tocar es la evolución, historia y los puntos a los que han atribuido su éxito.  En esta sesión quiero compartirles esas experiencias e historias.",
     "tags": [
-      "Technical Talk"
+      "Technical Talk",
+      "Open Source",
+      "Skills"
     ],
-    "complexity": "Basic"
+    "complexity": "Basic",
+    "language": "Spanish"
   },
   "109": {
     "speakers": [
       "Isabel_Palomar"
     ],
     "title": "Creando un modelo personalizado de Machine Learning",
-    "description": "",
+    "description": "Aprende a crear un modelo personalizado de Machine Learning y a aplicarlo utilizando Kotlin y ML Kit de Firebase",
     "tags": [
-      "Technical Talk"
+      "Technical Talk",
+      "Kotlin",
+      "Machine Learning"
     ],
-    "complexity": "Basic"
+    "complexity": "Basic",
+    "language": "Spanish"
   },
   "110": {
     "speakers": [
       "Domingo_Suarez"
     ],
     "title": "No Kuberneteen por convivir shiavos",
-    "description": "",
+    "description": "Kubernetes es una plataforma demasiado popular en este momento, todo mundo la usa o quiere usarla, pero es muy importante conocer las consideraciones y malos usos en los que algunos equipos caen al ejecutar aplicaciones Java.",
     "tags": [
-      "Technical Talk"
+      "Technical Talk",
+      "Cloud",
+      "Kubernetes"
     ],
-    "complexity": "Basic"
+    "complexity": "Intermediate",
+    "language": "Spanish"
   },
   "111": {
     "speakers": [
       "Phil_Steitz"
     ],
-    "title": "TBD",
-    "description": "",
+    "title": "Object Pooling in Java Applications",
+    "description": "Java applications often have the need to maintain pools of objects to be reused across processing threads. Objects that are expensive to create can be created once and reused by pool clients.  In this talk, we will discuss object pooling first from the client application perspective (how pools behave under different configuration and demand scenarios) and then from the perspective of a pool provider (design considerations when implementing object pools).",
     "tags": [
-      "Technical Talk"
+      "Java",
+      "Open Source",
+      "Concurrency"
     ],
-    "complexity": "Basic"
+    "complexity": "Basic",
+    "language": "English"
   },
   "112": {
     "speakers": [
       "Alejandro_Cardenas"
     ],
     "title": "First Microservice using springboot",
-    "description": "",
+    "description": "Cover the creation REST API services and how set up a microservice architecture using spring boot cloud, and how setup Consul instead Eureka",
     "tags": [
-      "Technical Talk"
+      "Technical Talk",
+      "Microservice",
+      "Spring",
+      "Cloud"
     ],
-    "complexity": "Basic"
+    "complexity": "Basic",
+    "language": "Spanish"
   },
   "113": {
     "speakers": [
       "Billy_Korando"
     ],
     "title": "OpenJ9 a Lean, Mean, Java Virtual Machine for the Cloud",
-    "description": "",
+    "description": "The economics of the Cloud continues to dictate the need for radical changes to language runtimes. In this session learn about how OpenJDK with the Eclipse OpenJ9 JVM is leading the way in creating an enterprise strength, industry leading Java runtime that provides the operational characteristics most needed for Java applications running in the Cloud: efficient memory use, fast start-up, and releasing resources when idle. Whether deploying micro-services or more traditional Java applications the combination of OpenJDK with Eclipse OpenJ9 can help you reduce operational costs across the board.",
     "tags": [
-      "Technical Talk"
+      "Technical Talk",
+      "JVM",
+      "Cloud"
     ],
-    "complexity": "Basic"
+    "complexity": "Basic",
+    "language": "English"
   },
   "114": {
     "speakers": [
       "Melissa_McKay"
     ],
     "title": "Bringing It All Together: A Comparison of Service Mesh Solutions",
-    "description": "",
+    "description": "You have successfully developed and deployed your microservices architecture, but you find that managing communication between your services and containers is becoming more complex and clumsy as you scale. This session begins with a definition of service mesh and what potential roles it can play in your microservices architecture. It explores the pros and cons of the popular service mesh implementations Istio, Linkerd, and Conduit. The presentation also touches on the differences in the ease of implementation, integration with existing monitoring solutions, traffic flow, and service-to-service authentication. After this session, you will be able to make an informed decision on the best service mesh architecture to implement in your environment.",
     "tags": [
-      "Technical Talk"
+      "Technical Talk",
+      "Cloud",
+      "Service Mesh"
     ],
-    "complexity": "Basic"
+    "complexity": "Intermediate",
+    "language": "English"
   },
   "115": {
     "speakers": [
       "Joel_Humberto_Gomez"
     ],
     "title": "Java in JS Code The Power Of Web Assembly",
-    "description": "",
+    "description": "The Web is a JS's monopoly but recently with the development of webassembly this has changed. In this talk we are going to explore how to reuse code Java in browser using Web Assembly, the way to do it, the errors maybe you will make, and something demos too.",
     "tags": [
-      "Technical Talk"
+      "Technical Talk",
+      "Web Assembly"
     ],
-    "complexity": "Basic"
+    "complexity": "Intermediate",
+    "language": "Spanish"
   },
   "116": {
     "speakers": [
       "Miro_Cupak"
     ],
     "title": "Exploring reactive programming in Java",
-    "description": "",
+    "description": "When Java 8 was first introduced, it revolutionized the way Java applications were written by providing the core constructs for asynchronous programming and handling data streams. With Java 9-12, these capabilities were extended to the level that allows us to write truly modern, reactive applications with the JDK.\n\nIn this live-coding session, we explore the building blocks or reactive systems available in the JDK today, which create 8 levels of reactive programming. We specifically focus on JDK 9-12 features, such as updates to the Stream and CompletableFuture APIs, Reactive Streams publish-subscribe framework, HTTP/2 client, and more.",
     "tags": [
-      "Technical Talk"
+      "Technical Talk",
+      "Java",
+      "Reactive"
     ],
-    "complexity": "Basic"
+    "complexity": "Advanced",
+    "language": "English"
   },
   "117": {
     "speakers": [
       "Enrique_Zamudio"
     ],
     "title": "Synchronized is obsolete",
-    "description": "",
+    "description": "The synchronized keyword is mostly obsolete in modern distributed environments such as kubernetes, where you may have several identical processes for redundancy, so we need to learn how to deal with concurrency in these environments and think about it in a new way.",
     "tags": [
-      "Technical Talk"
+      "Technical Talk",
+      "Java",
+      "Microservice",
+      "Concurrency"
     ],
-    "complexity": "Basic"
+    "complexity": "Intermediate",
+    "language": "Spanish"
   },
   "118": {
     "speakers": [
-      ""
+      "Mark_Stoodley"
     ],
-    "title": "",
-    "description": "",
+    "title": "From AOT to JIT and Beyond",
+    "description": "Comparing Ahead of Time and Just In Time compilers, caching JIT compilers and JIT compiler servers",
     "tags": [
-      "Technical Talk"
+      "Technical Talk",
+      "JVM"
     ],
-    "complexity": "Basic"
+    "complexity": "Intermediate",
+    "language": "English"
   },
   "119": {
     "speakers": [
-      ""
+      "Javier_Sainz"
     ],
-    "title": "",
-    "description": "",
+    "title": "Fibers on Java",
+    "description": "Let's review the the structured concurrency model on Java with Fibers (Project Loom), fibers are lightweight user-mode threads, which allow to create (many) more async processes that the regular Java Threads.",
     "tags": [
-      "Technical Talk"
+      "Technical Talk",
+      "Java",
+      "Concurrency"
     ],
-    "complexity": "Basic"
+    "complexity": "Intermediate",
+    "language": "Spanish"
   },
   "120": {
     "speakers": [
       ""
     ],
-    "title": "",
-    "description": "",
+    "title": "IBM challenge Mentoring",
+    "description": "IBM challenge Mentoring",
     "tags": [
-      "Technical Talk"
+      "Mentoring"
     ],
-    "complexity": "Basic"
+    "complexity": "Basic",
+    "language": "Spanish"
   }
 }

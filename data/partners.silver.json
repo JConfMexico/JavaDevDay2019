@@ -7,8 +7,14 @@
   },
   "001": {
     "name": "Circulo Siete",
-    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2FCirculoSiete.jpeg?alt=media&token=32c21c27-8dc5-4e11-9958-7455ac9fa01d",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Flogocesi.png?alt=media&token=a76d088f-76b7-4928-9787-b72e6a7cdf62",
     "order": 1,
     "url": "https://circulosiete.com/"
+  },
+  "002": {
+    "name": "Ad Hoc Talent",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fad-hoc-talent-logo.png?alt=media&token=693adca1-6dd7-44a1-8736-623ca524b282",
+    "order": 2,
+    "url": "http://adhoctalent.com/"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "000": {
+    "name": "Java User Group Aguascalientes",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fags_jug_logo2.png?alt=media&token=1a01a379-4729-428b-b70b-872a80694d6e",
+    "order": 0,
+    "url": "https://www.facebook.com/JUGAguascalientes/"
+  },
+  "001": {
+    "name": "Java México",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2FjavaMexico.png?alt=media&token=599d94bc-460e-4eac-8733-03afe4ec05b8",
+    "order": 1,
+    "url": "https://www.javamexico.org/"
+  },
+  "002": {
+    "name": "Software Guru",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fsg_-_logo_para_web.png?alt=media&token=ec764061-a430-415c-9c80-d2183919f72d",
+    "order": 1,
+    "url": "https://sg.com.mx/"
+  }
+}

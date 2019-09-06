@@ -189,12 +189,18 @@
         "name": "twitter",
         "label": "Sign in with Twitter",
         "url": "https://twitter.com"
+      },
+      {
+        "name": "github",
+        "label": "Sign in with Github",
+        "url": "https://github.com"
       }
     ],
     "allowedProvidersUrl": [
       "https://accounts.google.com",
       "https://www.facebook.com",
-      "https://twitter.com"
+      "https://twitter.com",
+      "https://github.com"
     ]
   },
   "contentLoaders": {

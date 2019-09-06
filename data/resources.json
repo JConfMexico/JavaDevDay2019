@@ -206,22 +206,48 @@
     }
   },
   "aboutOrganizerBlock": {
-    "image": "/images/team.jpg",
+    "images": [
+      "/images/team.jpg"
+    ],
+    "title": "Organizers",
     "blocks": [
       {
-        "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "title": "J4G",
+        "description": "The community where we talk about everything related to Software Development and sometimes Java, and there is always beer.",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fj4g.png?alt=media&token=27633b08-81b7-4310-bde8-301bef2246bb",
         "callToAction": {
-          "label": "Open team page",
-          "link": "/team"
+          "label": "Read more",
+          "link": "https://www.meetup.com/es/j4Guanatos/",
+          "newTab": true
         }
       },
       {
-        "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "title": "GDL JUG",
+        "description": "In Java User Group Guadalajara we have opportunities to meet other Java developers and talk about code, patterns, innovations and share your ideas.\nOur meetings are technical and include experts in Java technology. We welcome beginners and gurus, developers and managers, geeks and professionals.",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fjug.png?alt=media&token=6b97763d-717c-42a2-81dc-7e603e9855d7",
         "callToAction": {
           "label": "Read more",
-          "link": "https://developers.google.com/groups/",
+          "link": "https://www.meetup.com/es/gdljug/",
+          "newTab": true
+        }
+      },
+      {
+        "title": "KUG Guadalajara",
+        "description": "We love to share and learn new things, this is a group focused on the Kotlin language, a modern language, created by JetBrains and with many new elements that may interest you.",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2FKotlin_UG_avatar.jpg?alt=media&token=c96b4780-24e0-4e92-8345-64ec8637d367",
+        "callToAction": {
+          "label": "Read more",
+          "link": "https://www.meetup.com/es/Kotlin-User-Group-GDL/",
+          "newTab": true
+        }
+      },
+      {
+        "title": "GDG Guadalajara Android",
+        "description": "Local community focused on the development and dissemination of activities related to software on Android and related technologies from Google developers..",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fgdg.png?alt=media&token=ac04c2b8-64b5-4a4c-a26c-3337b597acf8",
+        "callToAction": {
+          "label": "Read more",
+          "link": "https://www.meetup.com/es/GDG-GDL-Android/",
           "newTab": true
         }
       }

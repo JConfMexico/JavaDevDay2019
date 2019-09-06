@@ -820,6 +820,13 @@ const helperActions = {
         provider.addScope('public_profile');
         return provider;
       }
+      case 'https://github.com':
+      case 'github.com': {
+        const provider = new firebase.auth.GithubAuthProvider();
+        provider.addScope('email');
+        provider.addScope('public_profile');
+        return provider;
+      }
       case 'https://twitter.com':
       case 'twitter.com':
         return new firebase.auth.TwitterAuthProvider();
@@ -836,6 +843,9 @@ const helperActions = {
       case 'facebook.com': {
         return 'Facebook';
       }
+      case 'https://github.com':
+      case 'github.com':
+        return 'GitHub';
       case 'https://twitter.com':
       case 'twitter.com':
         return 'Twitter';

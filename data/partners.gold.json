@@ -9,12 +9,18 @@
     "order": 1,
     "url": "https://bitso.com",
     "name": "Bitso",
-    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fbitso.jpeg?alt=media&token=622dc8cc-188b-41d8-adfc-8071c6217a6b"
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2FBitso-dark.png?alt=media&token=e9df8ae1-6a86-4357-b1b5-012fe373e797"
   },
   "002": {
     "order": 2,
     "url": "https://www.tacitknowledge.com/",
     "name": "Tacit Knowledge",
     "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fsponsors_Logo_Tacit_Gris.png?alt=media&token=424f4e92-b25a-4eb1-ae4a-aabaa5005b36"
+  },
+  "002": {
+    "order": 3,
+    "url": "https://helixre.com/",
+    "name": "HELIX",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2FHelix.png?alt=media&token=6854e0e6-96fe-4c37-a01d-a95d5293bd58"
   }
 }

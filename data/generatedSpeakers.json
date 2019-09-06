@@ -1,21 +1,21 @@
 {
-  "Andres_Almiray": {
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FAndres_Almiray.jpeg?alt=media&token=f4a6c767-874c-4526-8c01-a392f54e3784",
-    "name": "Andrés Almiray",
-    "bio": "Andrés un desarrollador Java/Groovy y Java Champion con mas de 20 años en la industria de desarrollo de software, la mayoría del tiempo haciendo uso de Java desde sus inicios en 1995 y en los últimos años, Groovy. A lo largo de su carrera profesional ha diseñado e implementado numerosos proyectos tanto para ambientes web como de escritorio. Convencido de las ventajas del software libre, ha participado en proyectos reconocidos como lo son el lenguaje Groovy, JMatter y DbUnit, así como tambien inicio sus propios proyectos (Json-lib, EZMorph, GfxBuilder, JideBuilder). Miembro fundador y líder actual del proyecto Griffon y de la comunidad Hackergarten.",
-    "id": "Andres_Almiray",
-    "talk": "Gradle Ex Machina",
-    "order": 2,
+  "Mercedes_Wyss": {
+    "talk": "Modern Identity Management (in the Era of Serverless and Microservices)",
+    "bio": "Mercedes Wyss es Ingeniera de Software con más de siete años de experiencia en desarrollo backend, frontend y Android utilizando Java, Kotlin y Python. Actualmente, es CTO en Produactivity, una startup con base en Guatemala.\n\nElla estuvo organizando previamente meetings en el Grupo de Usuarios Java de Guatemala desde el 2012 hasta el 2016. Desde el 2016 se ha enfocado en incrementar la participación femenina en STEAM liderando un capítulo JDuchess en Guatemala y también lidera una comunidad enfocada en tecnologías Google (Devs+502).\n\nElla es Oracle Groundbreaker Ambassador y Auth0 Ambassador, y tiene un Duke's Choice Award en extensión educativa.",
+    "order": 0,
     "featured": true,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FMercedes_Wyss.jpg?alt=media&token=abcb8015-60d8-4fbc-8abf-8edf88eb39d2",
+    "name": "Mercedes Wyss",
+    "id": "Mercedes_Wyss",
     "socials": [
       {
         "name": "Twitter",
-        "link": "https://twitter.com/aalmiray",
+        "link": "https://twitter.com/itrjwyss",
         "icon": "twitter"
       }
     ],
     "tags": [
-      "build tools"
+      "security"
     ]
   },
   "Enrique_Zamudio": {
@@ -36,6 +36,59 @@
       "java",
       "concurrency",
       "distributed"
+    ]
+  },
+  "Andres_Almiray": {
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FAndres_Almiray.jpeg?alt=media&token=f4a6c767-874c-4526-8c01-a392f54e3784",
+    "name": "Andrés Almiray",
+    "bio": "Andrés un desarrollador Java/Groovy y Java Champion con mas de 20 años en la industria de desarrollo de software, la mayoría del tiempo haciendo uso de Java desde sus inicios en 1995 y en los últimos años, Groovy. A lo largo de su carrera profesional ha diseñado e implementado numerosos proyectos tanto para ambientes web como de escritorio. Convencido de las ventajas del software libre, ha participado en proyectos reconocidos como lo son el lenguaje Groovy, JMatter y DbUnit, así como tambien inicio sus propios proyectos (Json-lib, EZMorph, GfxBuilder, JideBuilder). Miembro fundador y líder actual del proyecto Griffon y de la comunidad Hackergarten.",
+    "id": "Andres_Almiray",
+    "talk": "Gradle Ex Machina",
+    "order": 2,
+    "featured": true,
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/aalmiray",
+        "icon": "twitter"
+      }
+    ],
+    "tags": [
+      "build tools"
+    ]
+  },
+  "Miro_Cupak": {
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FMiro_Cupak.jpeg?alt=media&token=6b2571c9-205c-42fe-8d72-b2414f74222f",
+    "name": "Miro Cupak",
+    "id": "Miro_Cupak",
+    "bio": "Miro is a Co-founder and VP Engineering at DNAstack, where he builds a leading genomics cloud platform. He is a Java enthusiast with expertise in distributed systems and middleware, passionate about genetics and making meaningful software. Miro is the creator of the largest search and discovery engine of human genetic data, and the author of a book on parallelization of genomic queries. In his spare time, he blogs and contributes to several open-source projects.",
+    "order": 3,
+    "featured": true,
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/mirocupak",
+        "icon": "twitter"
+      }
+    ],
+    "tags": [
+      "java",
+      "api"
+    ]
+  },
+  "Sergio_Martinez": {
+    "id": "Sergio_Martinez",
+    "bio": "Desarrollador, en el mundo Java desde el 2004, participó en el desarrollo de WebBuilder, SemanticWebBuilder y Cloudino así como en el diseño y la implementación de las versiones iniciales de gobierno.mx y el nodo Fiware México del Infotec. Interesado en desarrollo de software de alto desempeño, seguridad y computo en la nube.",
+    "order": 4,
+    "featured": true,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FSergio_Martinez.jpeg?alt=media&token=e95417d7-e6c0-4397-a1de-1c3ca4b4cf4d",
+    "name": "Sergio Martínez",
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/SuperSerch",
+        "icon": "twitter"
+      }
     ]
   },
   "Hilmer_Chona": {
@@ -80,44 +133,6 @@
       "metrics"
     ]
   },
-  "Mercedes_Wyss": {
-    "talk": "Modern Identity Management (in the Era of Serverless and Microservices)",
-    "bio": "Mercedes Wyss es Ingeniera de Software con más de siete años de experiencia en desarrollo backend, frontend y Android utilizando Java, Kotlin y Python. Actualmente, es CTO en Produactivity, una startup con base en Guatemala.\n\nElla estuvo organizando previamente meetings en el Grupo de Usuarios Java de Guatemala desde el 2012 hasta el 2016. Desde el 2016 se ha enfocado en incrementar la participación femenina en STEAM liderando un capítulo JDuchess en Guatemala y también lidera una comunidad enfocada en tecnologías Google (Devs+502).\n\nElla es Oracle Groundbreaker Ambassador y Auth0 Ambassador, y tiene un Duke's Choice Award en extensión educativa.",
-    "order": 0,
-    "featured": true,
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FMercedes_Wyss.jpg?alt=media&token=abcb8015-60d8-4fbc-8abf-8edf88eb39d2",
-    "name": "Mercedes Wyss",
-    "id": "Mercedes_Wyss",
-    "socials": [
-      {
-        "name": "Twitter",
-        "link": "https://twitter.com/itrjwyss",
-        "icon": "twitter"
-      }
-    ],
-    "tags": [
-      "security"
-    ]
-  },
-  "Miro_Cupak": {
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FMiro_Cupak.jpeg?alt=media&token=6b2571c9-205c-42fe-8d72-b2414f74222f",
-    "name": "Miro Cupak",
-    "id": "Miro_Cupak",
-    "bio": "Miro is a Co-founder and VP Engineering at DNAstack, where he builds a leading genomics cloud platform. He is a Java enthusiast with expertise in distributed systems and middleware, passionate about genetics and making meaningful software. Miro is the creator of the largest search and discovery engine of human genetic data, and the author of a book on parallelization of genomic queries. In his spare time, he blogs and contributes to several open-source projects.",
-    "order": 3,
-    "featured": true,
-    "socials": [
-      {
-        "name": "Twitter",
-        "link": "https://twitter.com/mirocupak",
-        "icon": "twitter"
-      }
-    ],
-    "tags": [
-      "java",
-      "api"
-    ]
-  },
   "Raul_Estrada": {
     "id": "Raul_Estrada",
     "order": 7,
@@ -155,21 +170,6 @@
     "tags": [
       "big data",
       "streaming"
-    ]
-  },
-  "Sergio_Martinez": {
-    "id": "Sergio_Martinez",
-    "bio": "Desarrollador, en el mundo Java desde el 2004, participó en el desarrollo de WebBuilder, SemanticWebBuilder y Cloudino así como en el diseño y la implementación de las versiones iniciales de gobierno.mx y el nodo Fiware México del Infotec. Interesado en desarrollo de software de alto desempeño, seguridad y computo en la nube.",
-    "order": 4,
-    "featured": true,
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FSergio_Martinez.jpeg?alt=media&token=e95417d7-e6c0-4397-a1de-1c3ca4b4cf4d",
-    "name": "Sergio Martínez",
-    "socials": [
-      {
-        "name": "Twitter",
-        "link": "https://twitter.com/SuperSerch",
-        "icon": "twitter"
-      }
     ]
   },
   "Ixchel_Ruiz": {
@@ -274,6 +274,36 @@
       {
         "name": "Twitter",
         "link": "https://twitter.com/DezkaReid",
+        "icon": "twitter"
+      }
+    ]
+  },
+  "Javier_Sainz": {
+    "order": 17,
+    "bio": "Software Developer with 8+ years’ building enterprise web applications, knowledge in Java (Java EE and Spring), Cloud and web stuffs. Communities enthusiast and regular speaker in the local communities of Guadalajara Area.",
+    "featured": true,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FJavier_Sainz.jpg?alt=media&token=d0bdcd1e-cb63-4052-92d7-41d509a1a408",
+    "name": "Javier Sainz",
+    "id": "Javier_Sainz",
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/FcoJavierSainz",
+        "icon": "twitter"
+      }
+    ]
+  },
+  "Mark_Stoodley": {
+    "order": 18,
+    "bio": "Mark Stoodley wrote his first compiler almost from scratch at the age of 16 after borrowing his older brother’s copy of the famous Dragon book. It wasn’t easy (and the result wasn’t really very good) but he was hooked. After more years of graduate work on optimizing compilers and computer architecture than he cares to remember, he joined IBM Canada to build Java Just In Time (JIT) compilers for production use and led the team that delivered Ahead Of Time (AOT) compilation in the IBM SDK for Java 6 in 2007. Mark spent the last five years leading the effort to open source nearly 4.3 million lines of source code from the IBM J9 Java Virtual Machine to create the two open source projects Eclipse OMR and Eclipse OpenJ9, and now co-leads both projects. In his rare spare time, he works on a library called JitBuilder at Eclipse OMR that aims to make it easier than ever before for people to develop their own JIT compilers!",
+    "featured": true,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FMark%20pic.jpg?alt=media&token=84a8fe47-1a0e-4093-9518-5da61a345fea",
+    "name": "Mark Stoodley",
+    "id": "Mark_Stoodley",
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/mstoodle",
         "icon": "twitter"
       }
     ]
