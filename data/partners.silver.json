@@ -1,7 +1,7 @@
 {
   "000": {
     "name": "Auth0",
-    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fauth0-logo-monotone-black.png?alt=media&token=9b0ec681-d297-441b-9ba4-9cc3b034190b",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2FAuth0-Logo-Light-BG.png?alt=media&token=f9db7aa7-73e1-4546-b9ff-c07560557900",
     "order": 0,
     "url": "https://auth0.com"
   },
@@ -16,5 +16,11 @@
     "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fad-hoc-talent-logo.png?alt=media&token=693adca1-6dd7-44a1-8736-623ca524b282",
     "order": 2,
     "url": "http://adhoctalent.com/"
+  },
+  "003": {
+    "name": "UST Global",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fust_global_logo_1660x700.png?alt=media&token=3f2b2fde-913f-4a42-a57d-d43d777391d8",
+    "order": 3,
+    "url": "https://www.ust-global.com/"
   }
 }

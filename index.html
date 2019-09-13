@@ -5,7 +5,8 @@
   <base href="{$ basepath $}">
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
+  <meta name="viewport"
+        content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
   <meta name="description" content="{$ description $}">
   <meta name="keywords" content="{$ keywords $}">
   <meta name="author" content="{$ organizer.name $}">
@@ -28,7 +29,8 @@
 
   <!-- Add to homescreen for Safari on iOS -->
   <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-status-bar-style"
+        content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="{$ title $}">
 
   <!-- Homescreen icons. -->
@@ -50,9 +52,11 @@
   <!-- G+ sharing meta data -->
   <meta itemprop="name" content="{$ title $}">
   <meta itemprop="description" content="{$ description $}">
-  <meta itemprop="image" content="{$ image if image.startsWith('http') else (url + image) $}">
+  <meta itemprop="image"
+        content="{$ image if image.startsWith('http') else (url + image) $}">
   <meta itemprop="startDate" content="{$ startDate $}">
   <meta itemprop="endDate" content="{$ endDate $}">
+  <meta itemprop="location" content="{$ address $}">
 
   <!-- Facebook sharing meta data -->
   <meta property="og:title" content="{$ title $}">
@@ -61,7 +65,8 @@
   <meta property="og:url" content="{$ url $}">
   <meta property="og:description" content="{$ description $}">
   <meta property="og:type" content="Event">
-  <meta property="og:image" content="{$ image if image.startsWith('http') else (url + image) $}">
+  <meta property="og:image"
+        content="{$ image if image.startsWith('http') else (url + image) $}">
   <meta property="og:image:type" content="image/jpeg"/>
 
   <!-- Twitter meta data -->
@@ -69,7 +74,8 @@
   <meta name="twitter:creator" content="@{$ organizer.twitter $}">
   <meta name="twitter:title" content="{$ title $}">
   <meta name="twitter:description" content="{$ description $}">
-  <meta name="twitter:image" content="{$ image if image.startsWith('http') else (url + image) $}">
+  <meta name="twitter:image"
+        content="{$ image if image.startsWith('http') else (url + image) $}">
   <meta name="twitter:label1" value="{$ location.label $}">
   <meta name="twitter:data1" value="{$ location.name $}">
   <meta name="twitter:label2" value="">
@@ -80,10 +86,59 @@
   <link rel="preconnect" href="https://fcm.googleapis.com">
   <link rel="preconnect" href="https://firestore.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "{$ title $}",
+      "startDate": "{$ startDate $}",
+      "endDate": "{$ endDate $}",
+      "location": {
+        "@type": "Place",
+        "name": "{$ location.name $}",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "{$ location.postalAddress $}",
+          "addressLocality": "{$ location.locality $}",
+          "postalCode": "{$ location.postalCode $}",
+          "addressRegion": "{$ location.region $}",
+          "addressCountry": "{$ location.country $}"
+        }
+      },
+      "image": [
+        "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/gallery%2Fdrinks.jpg?alt=media&token=8d38fb72-6907-455a-a40d-ceaa46e4490e",
+        "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/gallery%2Fspeaker2.jpg?alt=media&token=e387430e-5933-4728-a962-46e038219a79"
+      ],
+      "description": "{$ description $}",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.eventbrite.com/e/java-dev-day-2019-tickets-67383512901",
+        "price": "200",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2019-09-13T12:00"
+      },
+      "performer": {
+        "@type": "PerformingGroup",
+        "name": "J4G & GDL JUG"
+      }
+    }
+  </script>
   <script>
 
     window.Polymer = { rootPath: '{$ basepath $}' };
     window.HOVERBOARD = { Elements: {} };
+    HTMLDocument.prototype.ready = function () {
+      return new Promise(function (resolve) {
+        if (document.readyState === 'complete') {
+          resolve(document);
+        } else {
+          document.addEventListener('DOMContentLoaded', function () {
+            resolve(document);
+          });
+        }
+      });
+    };
 
     function loadFirebaseModules(modules) {
       return Promise.all(
@@ -104,12 +159,12 @@
       });
     }
 
-    loadFirebaseModules([
+    Promise.all([loadFirebaseModules([
       'firebase-app',
       'firebase-firestore',
       'firebase-auth',
       'firebase-messaging',
-    ])
+    ]), document.ready()])
       .then(() => {
         firebase.initializeApp({
           apiKey: '{$ firebase.apiKey $}',

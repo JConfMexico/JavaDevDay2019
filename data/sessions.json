@@ -197,13 +197,13 @@
       "Phil_Steitz"
     ],
     "title": "Object Pooling in Java Applications",
-    "description": "Java applications often have the need to maintain pools of objects to be reused across processing threads. Objects that are expensive to create can be created once and reused by pool clients.  In this talk, we will discuss object pooling first from the client application perspective (how pools behave under different configuration and demand scenarios) and then from the perspective of a pool provider (design considerations when implementing object pools).",
+    "description": "Java applications often have the need to maintain pools of objects to be reused across processing threads.  Objects that are expensive to create can be created once and reused by pool clients.  In this talk, we discuss how workload characteristics and resource constraints affect optimal pool settings and application throughput.  We will also discuss technical problems faced by developers implementing high-performance pools.  The speaker is a member of the Apache Software Foundation, formerly Chairman of the ASF, and an active committer to Apache Commons Pool, a high-performance object pool used by many OSS libraries and applications.",
     "tags": [
       "Java",
       "Open Source",
       "Concurrency"
     ],
-    "complexity": "Basic",
+    "complexity": "Intermediate",
     "language": "English"
   },
   "112": {

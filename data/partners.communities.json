@@ -12,9 +12,15 @@
     "url": "https://www.javamexico.org/"
   },
   "002": {
+    "name": "GDL Dev Comms",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fgdl-devcomms.png?alt=media&token=1154d1c7-f7e4-41e3-ae1e-d72e6af07586",
+    "order": 2,
+    "url": "https://www.facebook.com/gdldevcomms/"
+  },
+  "003": {
     "name": "Software Guru",
     "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fsg_-_logo_para_web.png?alt=media&token=ec764061-a430-415c-9c80-d2183919f72d",
-    "order": 1,
+    "order": 3,
     "url": "https://sg.com.mx/"
   }
 }

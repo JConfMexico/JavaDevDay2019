@@ -10,5 +10,11 @@
     "url": "https://www.luxoft.com/",
     "name": "Luxoft",
     "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fluxoft.png?alt=media&token=bb8226f3-f0c6-4569-b343-ad81f775913f"
+  },
+  "002": {
+    "order": 2,
+    "url": "https://www.ibm.com/",
+    "name": "IBM",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2FIBM-LOGO_blu.png?alt=media&token=d40aa225-b62d-4b85-a802-062ee420ab7e"
   }
 }

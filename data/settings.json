@@ -111,10 +111,15 @@
   },
   "location": {
     "label": "Location",
-    "name": "PALCCO:",
+    "name": "PALCCO",
     "city": "Guadalajara",
+    "locality": "Zapopan",
+    "region": "Jalisco",
+    "country": "Mexico",
+    "postalCode": "45136",
     "short": "Guadalajara, Jalisco",
     "address": "Av. Central Guillermo Gonzalez Camarena 375. Guadalajara, Jalisco",
+    "postalAddress": "Av. Central Guillermo Gonzalez Camarena 375",
     "pointer": {
       "latitude": 20.726532,
       "longitude": -103.430747,
