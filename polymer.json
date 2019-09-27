@@ -25,6 +25,7 @@
   ],
   "extraDependencies": [
     "googlec14a720686a38f82.html",
+    "sitemap.txt",
     "bower_components/webcomponentsjs/webcomponents-*.js",
     "bower_components/iron-dropdown/iron-dropdown-scroll-manager.html",
     "bower_components/firebase/*.js",

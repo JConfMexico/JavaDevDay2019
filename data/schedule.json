@@ -103,12 +103,23 @@
         "sessions": [
           {
             "items": [
-              5
+              121
             ]
+          },
+          {
+            "items": [
+              120
+            ]
+          },
+          {
+            "items": [
+              5
+            ],
+            "extend": 2
           }
         ],
         "startTime": "15:00",
-        "endTime": "17:00"
+        "endTime": "16:00"
       },
       {
         "sessions": [
@@ -120,11 +131,6 @@
           {
             "items": [
               119
-            ]
-          },
-          {
-            "items": [
-              120
             ]
           }
         ],

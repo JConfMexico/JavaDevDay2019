@@ -22,5 +22,11 @@
     "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2Fust_global_logo_1660x700.png?alt=media&token=3f2b2fde-913f-4a42-a57d-d43d777391d8",
     "order": 3,
     "url": "https://www.ust-global.com/"
+  },
+  "004": {
+    "name": "Pivotal",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/sponsors%2F1280px-Pivotal_Software_logo.svg.png?alt=media&token=c94d8ac3-61d3-4ac9-89f9-aa77a9dcd5f4",
+    "order": 4,
+    "url": "https://pivotal.io/"
   }
 }

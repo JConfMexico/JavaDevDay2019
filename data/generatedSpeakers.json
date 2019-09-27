@@ -282,7 +282,7 @@
     "order": 17,
     "bio": "Software Developer with 8+ years’ building enterprise web applications, knowledge in Java (Java EE and Spring), Cloud and web stuffs. Communities enthusiast and regular speaker in the local communities of Guadalajara Area.",
     "featured": true,
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FJavier_Sainz.jpg?alt=media&token=d0bdcd1e-cb63-4052-92d7-41d509a1a408",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2Fsainz.jpg?alt=media&token=26b1e28e-2972-4910-a94e-7bbbc876dafc",
     "name": "Javier Sainz",
     "id": "Javier_Sainz",
     "socials": [
@@ -300,6 +300,21 @@
     "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2FMark%20pic.jpg?alt=media&token=84a8fe47-1a0e-4093-9518-5da61a345fea",
     "name": "Mark Stoodley",
     "id": "Mark_Stoodley",
+    "socials": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/mstoodle",
+        "icon": "twitter"
+      }
+    ]
+  },
+  "Josh_Long": {
+    "order": 19,
+    "bio": "Josh (@starbuxman) is the Spring Developer Advocate at Pivotal. Josh is a Java Champion, author of 6 books (including O'Reilly's Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry and the upcoming Reactive Spring) and numerous best-selling video trainings (including Building Microservices with Spring Boot Livelessons with Spring Boot co-founder Phil Webb), and an open-source contributor (Spring Boot, Spring Integration, Spring Cloud, Activiti and Vaadin), a podcaster and a screencaster",
+    "featured": true,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/java-dev-day.appspot.com/o/speakers%2Fjosh.jpg?alt=media&token=41e0db8f-16fb-4e41-841c-c6dc3236cc8d",
+    "name": "Josh Long",
+    "id": "Josh_Long",
     "socials": [
       {
         "name": "Twitter",
